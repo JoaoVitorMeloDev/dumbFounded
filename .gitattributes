@@ -1,1 +1,4 @@
 *sql linguist-detectable=true
+HelloWorld/on_Assembly.asm linguist-language=Assembly linguist-detectable=true
+HelloWorld/on_MATLAB.m linguist-language=MATLAB linguist-detectable=true
+HelloWorld/on_ObjectiveC.m linguist-language=Objective-C linguist-detectable=true
